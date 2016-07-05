@@ -1,4 +1,4 @@
-# Instalation
+# Installation
 Tested on Ubuntu 16.04
 
 ## Dependancies
