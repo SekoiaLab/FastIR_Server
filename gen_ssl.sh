@@ -1,5 +1,6 @@
 #!/bin/bash
 
+mkdir ./certificate
 openssl req \
        -newkey rsa:2048 -nodes -keyout ./certificate/server.key \
        -x509 -days 365 -out ./certificate/server.crt
