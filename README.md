@@ -1,7 +1,7 @@
 # Installation
 Tested on Ubuntu 16.04
 
-## Dependancies
+## Dependencies
 
 `apt-get install -y python3-flask python3-flask-sqlalchemy python3-click openssl`
 
